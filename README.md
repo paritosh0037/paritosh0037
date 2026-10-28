@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<a href="https://https://paritosh-nportfolio.netlify.app/">
+<a href="https://paritosh-nportfolio.netlify.app/">
   <img src="https://img.shields.io/badge/◉_PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 
 </div>

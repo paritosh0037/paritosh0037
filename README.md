@@ -4,7 +4,7 @@
 
 # Hey, I'm Paritosh 👋
 
-### Full-Stack Developer · AI/ML Builder · Aspiring Founder
+### Full-Stack Developer · AI/ML Builder · 
 
 *Building intelligent systems, shipping real-world applications, and turning ideas into products.*
 
